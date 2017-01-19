@@ -6,22 +6,24 @@
 
 [单击进入官方网站](https://a.tzqby.xyz:17869/home/invite.html?code=77db427309a3eeb4) (如果官方不能打开，请加入上网加速列表即可)
 
-
 [下载出锅访问加速助手](http://7xrvud.dl1.z0.glb.clouddn.com/chuguo_tool.zip) 
 (出锅插件不能登陆、注册、使用不稳定时请下载该程序在本地电脑执行一次，仅限Windows系统)
 
 #AnyConnect 客户端
 
-[下载Windows AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect-win-4.2.04018-pre-deploy-k9.msi)
+[下载Windows AnyConnect 客户端](http://7xrvud.dl1.z0.glb.clouddn.com/anyconnect-win-4.2.04018-pre-deploy-k9.msi)
 
-[下载Android AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect.vpn.android.avf-4.0.01287.apk)
+[下载MacOS AnyConnect 客户端](http://7xrvud.dl1.z0.glb.clouddn.com/anyconnect-macosx-i386-4.2.03013-k9.dmg)
 
-[全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
+[下载Android AnyConnect 客户端](http://7xrvud.dl1.z0.glb.clouddn.com/AnyConnect_4.0.05026.apk)
+
+[下载IOS AnyConnect 客户端，请打开应用市场直接搜索AnyConnect即可以直接安装]
+
+[其它全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
 
 #官方Chrome浏览器下载
 [下载最新官方Chrome 53版本浏览器](http://pan.baidu.com/s/1bPR0f0)
 (Chrome 51以下版本使用HTTPS代理时只能使用2个连接，经常造成阻塞卡顿，Chrome 51以上版本现在可以使用32个连接，强烈建议大家升级到该版本)
-
 
 # 简介
 
