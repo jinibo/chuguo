@@ -4,7 +4,7 @@
 
 (新增SS服务，多国线路香港、日本、新加坡、美国等国内低延迟服务器线路自由切换功能)
 
-[单击进入官方网站](https://a.tzqby.xyz:17869/home/invite.html?code=77db427309a3eeb4) (如果官方不能打开，请加入上网加速列表即可)
+[单击进入官方网站](http://www.cglove.info/home/invite.html?code=77db427309a3eeb4) (如果官方不能打开，请加入上网加速列表即可)
 
 #AnyConnect 客户端
 
